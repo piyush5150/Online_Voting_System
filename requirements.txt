@@ -1,6 +1,7 @@
 Django
 mysql-connector==2.2.9
 virtualenv==20.0.31
+gunicorn
 Pillow
 django-renderpdf
 requests
