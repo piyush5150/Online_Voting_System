@@ -25,7 +25,7 @@ SECRET_KEY = '%6lp_p!%r$7t-2ql5hc5(r@)8u_fc+6@ugxcnz=h=b(fn#3$p9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['onlinevoting.onrender.com']
+ALLOWED_HOSTS = ['online-voting-system-xpyx.onrender.com']
 
 
 # Application definition
